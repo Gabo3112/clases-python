@@ -45,7 +45,7 @@ while True:
         print("valor ingresado es incorrecto")
     else:
         print("no se presento la excepcion ")
-        break #se utiliza en secuencia repetitiva= while
+        break #se utiliza en secuencia repetitiva = while
     finally:
         print("fin del programa")
 
