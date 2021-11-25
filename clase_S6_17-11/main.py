@@ -41,7 +41,9 @@ monedas.push("1")
 
 print(monedas.items)
 
-
-
+'''un almacen tiene capacidad para apilar n contenedores. cada contenedor
+tiene un numero de identificacion. cuando se desea retirar un contenedor 
+especificso, deben retirarse primero los contenedores que estan encima de el
+y colocarlos en otra pila, efectuar el retiro y regresarlos'''
 
 
